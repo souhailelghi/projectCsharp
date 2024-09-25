@@ -149,7 +149,7 @@ class Bank
 {
     public static void acountStatic()
     {
-        Console.WriteLine("return static ");
+        Console.WriteLine("return static 5555");
     }
     public  void acountWitoutStatic()
     {
